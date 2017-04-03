@@ -1,0 +1,10 @@
+alias gst="g status"
+alias gco="git checkout"
+alias gpo="git push origin"
+
+
+alias cds="cd ~/src/ctap/server/;cd "
+
+
+alias bes="bundle exec rspec"
+alias be="bundle exec"
